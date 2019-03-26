@@ -1,5 +1,5 @@
 p)import base64, json, requests
-p)url = 'https://connect-shared-sandbox-2445582615332.production.gw.apicast.io/v1/'
+p)url = 'https://ephemeral.api.factom.com/v1'
 p)headers = {"Content-Type": "application/json", "app_id": "","app_key": ""}
 
 
